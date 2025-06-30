@@ -1,5 +1,5 @@
 # Amigo
-Repository for Solder YSWS, from HackClub. I did a keychain shaped like a cute chick, my friend's favorite animal.
+Repository for Solder YSWS, from HackClub. I made a keychain shaped like a cute chick, my friend's favorite animal.
 # Schematic
 ![Captura de Tela (84)](https://github.com/user-attachments/assets/c75d498f-00d2-428f-a55a-68dbd39b9e8a)
 # PCB
@@ -12,3 +12,13 @@ Repository for Solder YSWS, from HackClub. I did a keychain shaped like a cute c
 * Cool silkscreen in the front and back
 * Adorable chick shape
 # BOM
+* 3 LEDs
+* 1 vibration motor
+* 1 battery cell CR2032
+* 3 resistors 220Ω
+* 1 resistor 4.7kΩ
+* 1 photoresistor GL5528
+* 1 transistor 2N3904
+> Slack username: Sofia G.
+> Slack ID: U07V87SQ9NK
+
