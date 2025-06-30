@@ -20,5 +20,6 @@ Repository for Solder YSWS, from HackClub. I made a keychain shaped like a cute 
 * 1 photoresistor GL5528
 * 1 transistor 2N3904
 > Slack username: Sofia G.
+> 
 > Slack ID: U07V87SQ9NK
 
